@@ -3,3 +3,10 @@ base="dark"
 primaryColor="#ffa800"
 backgroundColor="#191D2D"
 secondaryBackgroundColor="#384158"
+
+[server]
+enableCORS = false
+headless = true
+enableXsrfProtection = true
+certfile = "certificate.crt"
+keyfile = "privatekey.key"
