@@ -76,7 +76,7 @@ with st.container():
         - Learning new things
         """)
     with right_column:
-        st_lottie(animation3, height=250, key="fun")
+        st_lottie(animation3, height=280, key="printer")
 
 # ---- Contact ----
 with st.container():
