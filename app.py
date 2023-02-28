@@ -42,7 +42,7 @@ with st.container():
             - System troubleshooting
             """)
     with right_column:
-        st_lottie(animation, height=200, key="work")
+        st_lottie(animation, height=215, key="work")
 
 # ---- What I Study ----
 
@@ -59,7 +59,7 @@ with st.container():
         - Computer Science
         """)
     with right_column:
-        st_lottie(animation2, height=200, key="study")
+        st_lottie(animation2, height=250, key="study")
 
 #  ---- What I do for fun ----
 with st.container():
@@ -76,7 +76,7 @@ with st.container():
         - Learning new things
         """)
     with right_column:
-        st_lottie(animation3, height=200, key="fun")
+        st_lottie(animation3, height=250, key="fun")
 
 # ---- Contact ----
 with st.container():
@@ -91,4 +91,4 @@ with st.container():
         - Web scraping with BeautifulSoup
         """)
     with right_column:
-        st_lottie(animation4, height=200, key="coding")
+        st_lottie(animation4, height=215, key="coding")
