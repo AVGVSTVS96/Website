@@ -87,7 +87,8 @@ with st.container():
         #### What I'm currently learning:
         - Programming with Python
         - Data Science with Pandas and Numpy
-        - Frontend development with Streamlit 
+        - Web app development with Streamlit 
+        - Web hosting with Render
         - Web scraping with BeautifulSoup
         """)
     with right_column:
